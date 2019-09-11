@@ -3,4 +3,4 @@
   
   Run SpampedeBrain.java to start the game
 
-  ![SpampedeBrain](https://drive.google.com/file/d/1g5li793eU2JmjL3DmyZ2TkkvK9a9RcHt/view?usp=sharing)
+  ![SpampedeBrain](https://github.com/SimonLiaowong/snake-game/edit/master/SpampedeBrainSetup.jpg)
