@@ -1,2 +1,2 @@
 # Snake Game
-  Run SpampedeBrain.java
+  Run SpampedeBrain.java to start the game
